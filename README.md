@@ -1,9 +1,5 @@
 # Vue2-WxChat
-vue2开发的仿微信，支持pc和移动端，图片压缩修复处理，交互逼真，多页路由，666。
-=======
-# project
-
-> A Vue.js project
+>vue2开发的仿微信，支持pc和移动端，图片压缩修复处理，交互逼真，多页路由，666。
 
 ## Build Setup
 
